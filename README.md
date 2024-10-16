@@ -29,4 +29,5 @@
    Explorar la ejecución y depuración de código en los entornos de desarrollo facilita la identificación y solución de problemas en tus proyectos de software, mejorando significativamente la eficiencia y calidad del desarrollo. A continuación veremos el mismo ejemplo desarrollado con diferentes entornos:
 
    3.1. [PyCharm](prac0_Pycharm/Practica0_ProgTIG.md)
+   
    3.2. [VScode](prac0_VSCode/Practica0_ProgTIG.md)
