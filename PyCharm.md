@@ -9,4 +9,4 @@
 7. **Subir Cambios a GitHub**: Una vez hecho el commit, utiliza `VCS` > `Git` > `Push` para subir tus cambios al repositorio remoto en GitHub.
 8. **Pull**: Para actualizar tu proyecto con los últimos cambios de GitHub, usa `VCS` > `Git` > `Pull`.
 
-![Flujo de trabajo con Pycharm](img/Pycharm.svg)
+![Flujo de trabajo con Pycharm](img/Pycharm.png)

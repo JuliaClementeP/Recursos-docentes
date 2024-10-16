@@ -10,11 +10,9 @@
 
    Por otro lado, GitHub es una plataforma en línea basada en Git que proporciona herramientas adicionales para la colaboración remota en proyectos, incluyendo almacenamiento de repositorios, gestión de tareas, y seguimiento de problemas, convirtiéndose así en un espacio clave para compartir y colaborar en desarrollo de software a nivel mundial.
    
-   1.1. [GitHub](GitHub.md)
+   1.1. [Registro](registro.md)
    
-   1.2. [Registro](registro.md)
-   
-   1.3. [Comandos Básicos](comandosBasicos.md)
+   1.2. [Comandos Básicos](comandosBasicos.md)
 
 2. [Herramientas](#herramientas)
 
@@ -23,3 +21,12 @@
    2.1. [PyCharm](PyCharm.md)
    
    2.2. [Jupyter Notebook](JupyterNotebook.md)
+
+   2.3. [VSCode](GitHub_VSCode.md)
+
+3. [Tutoriales](#herramientas)
+
+   Explorar la ejecución y depuración de código en los entornos de desarrollo facilita la identificación y solución de problemas en tus proyectos de software, mejorando significativamente la eficiencia y calidad del desarrollo. A continuación veremos el mismo ejemplo desarrollado con diferentes entornos:
+
+   3.1. [PyCharm](prac0_Pycharm/Practica0_ProgTIG.md)
+   3.2. [VScode](prac0_VSCode/Practica0_ProgTIG.md)
