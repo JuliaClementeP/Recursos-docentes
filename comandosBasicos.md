@@ -222,5 +222,5 @@ Git es una herramienta poderosa para el control de versiones y trabajo colaborat
     ```bash
     git push origin master
     ```
-![flujo standar](./img/flujo.gif)
+![Flujo estándar](./img/video_flujo.gif)
 
