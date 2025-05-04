@@ -32,7 +32,7 @@
    
    3.2. [VScode](prac0_VSCode/Practica0_ProgTIG.md)
 
-   4. [Tutoriales de Lenguajes](#tutoriales-de-lenguajes)
+4. [Tutoriales de Lenguajes](#tutoriales-de-lenguajes)
 
    Esta sección incluye recursos prácticos organizados por lenguajes de programación. Es ideal para quienes buscan aprender desde cero o reforzar conocimientos en un lenguaje específico.
 
