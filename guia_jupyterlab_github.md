@@ -195,7 +195,6 @@ El mensaje clave es: `Updates were rejected because the remote contains work tha
     * Vuelve a JupyterLab y edita el *mismo* notebook en una línea cercana o idéntica. Haz commit localmente.
 4.  **Intentar push y resolver el conflicto:**
     * Intenta hacer `git push` desde JupyterLab. Fallará con el error mostrado en la sección 5.
-    ![Mensaje de error al intentar push con cambios remotos pendientes](img/Jupyter/ConfictoGit.jpg "Mensaje de error al intentar push con cambios remotos pendientes")
     * Ejecuta `git pull`. Git marcará el archivo con conflictos.
     * Abre el archivo, edita los marcadores (`<<<<<<<`, `=======`, `>>>>>>>`) para dejar la versión deseada.
       ![Conflicto Git](img/Jupyter/ConflictoGit.png "Marcadores de conflicto en un archivo")
