@@ -20,7 +20,7 @@
 
    2.1. [PyCharm](PyCharm.md)
    
-   2.2. [Jupyter Notebook](JupyterNotebook.md)
+   2.2. [Jupyter Notebook 🆕](guia_jupyterlab_github.md)
 
    2.3. [VSCode](GitHub_VSCode.md)
 
