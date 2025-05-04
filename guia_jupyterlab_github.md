@@ -197,7 +197,6 @@ El mensaje clave es: `Updates were rejected because the remote contains work tha
     * Intenta hacer `git push` desde JupyterLab. Fallará con el error mostrado en la sección 5.
     * Ejecuta `git pull`. Git marcará el archivo con conflictos.
     * Abre el archivo, edita los marcadores (`<<<<<<<`, `=======`, `>>>>>>>`) para dejar la versión deseada.
-      ![Conflicto Git](img/Jupyter/ConflictoGit.png "Marcadores de conflicto en un archivo")
       ![Tratamiento Conflicto](img/Jupyter/TratamientoConflicto.png "Editando el archivo para resolver el conflicto")
     * Haz `git add <archivo>` y `git commit`.
     * Finalmente, haz `git push` de nuevo. ¡Ahora debería funcionar!
